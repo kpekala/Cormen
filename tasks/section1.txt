@@ -1,0 +1,14 @@
+Tasks
+
+1.2-1
+An example would be signing in feature, when program has to encrypt user credentials before they are sent to a backend.
+If we talk about web applications then there is a high change that app will use https connection. This makes sending
+data secure because https uses tls (Transport Layer Security)
+
+1.2-2
+I have checked values [3,4,8,16,32,64] and starting from value 64 value of function 64*n*ln(n) is smaller than 8*n^2
+
+1.2-3
+n = 15
+
+Problems
